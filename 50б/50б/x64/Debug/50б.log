@@ -1,0 +1,4 @@
+﻿  50б.cpp
+C:\Users\090TYPE\Documents\GitHub\Beautiful_numbers\50б\50б\50б.cpp(79,15): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\090TYPE\Documents\GitHub\Beautiful_numbers\50б\50б\50б.cpp(92,13): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  50б.vcxproj -> C:\Users\090TYPE\Documents\GitHub\Beautiful_numbers\50б\x64\Debug\50б.exe
